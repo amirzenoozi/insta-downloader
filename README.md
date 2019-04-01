@@ -5,7 +5,7 @@ Download Instagram Post Image/Video With This Script.
 ## Package Requirement
 + Selenium: Web Scrapper Library
 + Requests: Work With URL's Library
-+ Re: Rejax Library
++ Re: Regex Library
 + Urllib3: Download Image And Save it
 
 
