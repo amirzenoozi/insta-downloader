@@ -166,7 +166,7 @@ def openSeleniumBrowser( url ):
 def init():
     _TARGET_ = ''
     while( True ):
-        _TARGET_ = input('Please Inter Instagram Post URL: ')
+        _TARGET_ = input('Please Enter Instagram Post URL: ')
         if( _TARGET_ == 'end' ):
             break
         else:
